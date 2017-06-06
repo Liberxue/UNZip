@@ -8,7 +8,10 @@ Self extracting Ccharp zipclass UNzipclass
 - single compression
 self release file, applied in c# custom installation package
 
-c# unzip demo code
+![image description](UI-img/form1.png)
+![image description](UI-img/form2.png)
+
+- c# unzip demo code
 
 ```
  private System.Collections.Specialized.StringCollection folderCol;
