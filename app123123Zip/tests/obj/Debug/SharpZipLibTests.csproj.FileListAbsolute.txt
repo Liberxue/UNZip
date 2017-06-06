@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\桌面\ICSharpCode.SharpZipLib\SharpZipLib_0855_SourceSamples\SrcSamples\tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ICSharpCode.SharpZipLib\SharpZipLib_0855_SourceSamples\SrcSamples\tests\bin\Debug\SharpZipLibTests.dll
+C:\Documents and Settings\Administrator\桌面\ICSharpCode.SharpZipLib\SharpZipLib_0855_SourceSamples\SrcSamples\tests\bin\Debug\SharpZipLibTests.pdb
+C:\Documents and Settings\Administrator\桌面\ICSharpCode.SharpZipLib\SharpZipLib_0855_SourceSamples\SrcSamples\tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\Administrator\桌面\ICSharpCode.SharpZipLib\SharpZipLib_0855_SourceSamples\SrcSamples\tests\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\Administrator\桌面\ICSharpCode.SharpZipLib\SharpZipLib_0855_SourceSamples\SrcSamples\tests\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Documents and Settings\Administrator\桌面\ICSharpCode.SharpZipLib\SharpZipLib_0855_SourceSamples\SrcSamples\tests\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Documents and Settings\Administrator\桌面\ICSharpCode.SharpZipLib\SharpZipLib_0855_SourceSamples\SrcSamples\tests\obj\Debug\SharpZipLibTests.dll
+C:\Documents and Settings\Administrator\桌面\ICSharpCode.SharpZipLib\SharpZipLib_0855_SourceSamples\SrcSamples\tests\obj\Debug\SharpZipLibTests.pdb
+D:\AppZip\appZip\tests\bin\Debug\SharpZipLibTests.dll
+D:\AppZip\appZip\tests\bin\Debug\SharpZipLibTests.pdb
+D:\AppZip\appZip\tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\AppZip\appZip\tests\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\AppZip\appZip\tests\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\AppZip\appZip\tests\obj\Debug\ResolveAssemblyReference.cache
+D:\AppZip\appZip\tests\obj\Debug\SharpZipLibTests.dll
+D:\AppZip\appZip\tests\obj\Debug\SharpZipLibTests.pdb
