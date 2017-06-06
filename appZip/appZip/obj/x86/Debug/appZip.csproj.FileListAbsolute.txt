@@ -19,3 +19,12 @@ D:\AppZip\appZip\appZip\bin\Debug\ICSharpCode.SharpZipLib.xml
 \\Mac\Home\Desktop\appZip\appZip\obj\x86\Debug\appZip.Properties.Resources.resources
 \\Mac\Home\Desktop\appZip\appZip\obj\x86\Debug\appZip.csproj.GenerateResource.Cache
 \\Mac\Home\Desktop\appZip\appZip\obj\x86\Debug\ZipUnZipLib.Form2.resources
+Y:\Documents\GitHub\UNZip\appZip\appZip\obj\x86\Debug\appZip.csprojResolveAssemblyReference.cache
+Y:\Documents\GitHub\UNZip\appZip\appZip\obj\x86\Debug\Installation.Form1.resources
+Y:\Documents\GitHub\UNZip\appZip\appZip\obj\x86\Debug\Installation.Form2.resources
+Y:\Documents\GitHub\UNZip\appZip\appZip\obj\x86\Debug\appZip.Properties.Resources.resources
+Y:\Documents\GitHub\UNZip\appZip\appZip\obj\x86\Debug\appZip.csproj.GenerateResource.Cache
+Y:\Documents\GitHub\UNZip\appZip\appZip\obj\x86\Debug\appZip.exe
+Y:\Documents\GitHub\UNZip\appZip\appZip\obj\x86\Debug\appZip.pdb
+Y:\Documents\GitHub\UNZip\appZip\appZip\bin\Debug\appZip.exe
+Y:\Documents\GitHub\UNZip\appZip\appZip\bin\Debug\appZip.pdb

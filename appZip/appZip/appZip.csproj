@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ZipUnZipLib.Program</StartupObject>
+    <StartupObject>Installation.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
