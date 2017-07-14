@@ -1,5 +1,5 @@
 # UNZip
-Self extracting Ccharp zipclass UNzipclass 
+Self extracting Csharp zipclass UNzipclass 
 
 - Support zip
 - Giz compression 
